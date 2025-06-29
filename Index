@@ -14,20 +14,18 @@
 
   <main class="worksheet-grid">
     <div class="worksheet-card">
-      <img src="images/worksheet1.png" alt="Worksheet Cover">
+      <img src="https://wazlee35.github.io/A-Healthy-Mind/images/worksheet1.png" alt="Worksheet 1">
       <h2>Managing Big Emotions</h2>
       <p>Help children identify and express difficult emotions.</p>
-      <a href="worksheets/worksheet1.pdf" download class="download-btn">Download PDF</a>
+      <a href="https://wazlee35.github.io/A-Healthy-Mind/worksheets/worksheet1.pdf" download class="download-btn">Download PDF</a>
     </div>
 
     <div class="worksheet-card">
-      <img src="images/worksheet2.png" alt="Worksheet Cover">
+      <img src="https://wazlee35.github.io/A-Healthy-Mind/images/worksheet2.png" alt="Worksheet 2">
       <h2>My Calm-Down Plan</h2>
       <p>Encourage self-soothing strategies in stressful moments.</p>
-      <a href="worksheets/worksheet2.pdf" download class="download-btn">Download PDF</a>
+      <a href="https://wazlee35.github.io/A-Healthy-Mind/worksheets/worksheet2.pdf" download class="download-btn">Download PDF</a>
     </div>
-
-    <!-- Add more cards below -->
   </main>
 </body>
 </html>
